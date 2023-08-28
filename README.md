@@ -29,12 +29,14 @@ To run this application locally, follow these steps:
 - [Next.js](https://nextjs.org/): A React framework for building server-rendered applications.
 - [TypeScript](https://www.typescriptlang.org/): A statically typed superset of JavaScript.
 - [Apollo Client](https://www.apollographql.com/docs/react/): A powerful GraphQL client for React applications.
+- [Material-UI](https://mui.com/): A popular React UI framework for building modern and responsive user interfaces.
 
 ## Features
 
 - Displays a list of characters from the "Rick and Morty" TV show.
 - Utilizes Apollo Client to fetch data from the GraphQL API.
 - Implements Server-Side Rendering (SSR) for improved performance and SEO.
+- Uses Material-UI components for a polished and responsive design.
 
 ## Folder Structure
 
